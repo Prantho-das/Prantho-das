@@ -1,7 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="30px">, My name is Prantho
 #### I am Coder and Maker
-![I am Coder and Maker]
-//(https://avatars.githubusercontent.com/u/54980155?v=4)
+![I am Coder and Maker](https://avatars.githubusercontent.com/u/54980155?v=4)
 
 I want to make things. Learn new things and develop new things. I am a little lazy but I am sincere...
 
@@ -29,7 +28,7 @@ Skills:
 6.https://midasbuy.herokuapp.com/
 
 7.https://sqginternational.com/
-<div style="display: flex">
+<div style="display: flex;margin-bottom:1rem;">
   
 <div>
 <h3 align="left">Connect with me:</h3>
