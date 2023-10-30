@@ -39,7 +39,7 @@ Skills:
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> </div>
 <div>
-[//]![Profile views](https://gpvc.arturio.dev/Prantho-das)  
+<!--//]![Profile views](https://gpvc.arturio.dev/Prantho-das)  -->
 <a href="https://app.daily.dev/prantho"><img src="https://api.daily.dev/devcards/0f176db6b5f3481aa560475d08ecee39.png?r=nb4" width="400" alt="Prantho Kumar Das's Dev Card"/></a>
 </div>
 </div>
