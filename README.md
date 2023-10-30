@@ -68,7 +68,7 @@ Skills:
 
 
 
-## Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="30px">My name is Prantho
+## Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="30px"> , My name is Prantho
 # 💫 About Me:
 💻 Dedicated and driven coder<br>🌟 Passionate about software development<br>🚀 Love taking on challenging projects<br>🤝 Open to collaboration and contributions<br>🌐 Creating innovative solutions through code
 
