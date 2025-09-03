@@ -1,36 +1,37 @@
 ```markdown
-# `👨‍💻 Prantho Das | Full-Stack Developer`
-> *`Engineering Scalable Solutions with Precision and Passion`*
+# `🚀 Prantho Das | Code Architect`
+> *`Transforming ideas into scalable, high-impact solutions`*
 
 ```bash
+# Welcome to my digital workspace!
 whoami
 ```
-I'm Prantho Das, a dedicated **Full-Stack Developer** from Bangladesh, specializing in building robust, user-centric web applications. With expertise in modern frameworks like Laravel, React, and Vue.js, I deliver clean, maintainable code for client projects and open-source contributions. My focus is on creating high-performance solutions that drive business impact. Let's collaborate to build something extraordinary!
+I'm **Prantho Das**, a passionate **Full-Stack Developer** from Bangladesh, dedicated to crafting robust web applications and e-commerce platforms. With expertise in **Laravel**, **React**, and **Vue.js**, I build clean, efficient code that powers client projects and open-source initiatives. My mission? Deliver seamless user experiences and drive business success through technology. Let’s code the future together!
 
 ---
 
-## `💼 Professional Summary`
+## `💼 Professional Snapshot`
 ```yaml
 role: Full-Stack Developer
 experience:
-  - Delivered client projects including e-commerce platforms and web apps
-  - Optimized deployments on cloud platforms like AWS, Netlify, and Vercel
-  - Contributed to open-source initiatives on GitHub
-key_achievements:
-  - Built scalable APIs and frontends for high-traffic applications
-  - Improved performance and SEO for client websites
-  - Streamlined development workflows with Docker and CI/CD
+  - Built e-commerce platforms, web apps, and POS systems for clients
+  - Optimized deployments on AWS, Netlify, Vercel, and Heroku
+  - Contributed to open-source projects on GitHub
+achievements:
+  - Developed scalable APIs for high-traffic applications
+  - Enhanced website performance with SEO and caching strategies
+  - Streamlined development with Docker and CI/CD pipelines
 ```
 
 ---
 
-## `💾 Technical Expertise`
+## `💾 Tech Stack`
 ```yaml
 languages: [JavaScript, PHP, TypeScript, Python]
 frontend: [React, Vue.js, TailwindCSS, Bootstrap]
 backend: [Laravel, Node.js, Express.js]
 databases: [MySQL, MongoDB, Redis]
-devops: [Docker, Git, AWS, Netlify, Vercel]
+devops: [Docker, Git, AWS, Netlify, Vercel, Heroku]
 tools: [Postman, Figma, Jira]
 ```
 
@@ -46,18 +47,52 @@ tools: [Postman, Figma, Jira]
 
 ---
 
-## `📂 Featured Project`
+## `📂 Featured Projects`
 ```json
-{
-  "name": "Hub4Source",
-  "url": "https://hub4source.com",
-  "description": "A platform for open-source collaboration and POS solutions, enhancing developer and business workflows",
-  "stack": ["React", "Docker", "AWS"],
-  "impact": "Enabled seamless collaboration and efficient POS operations"
-}
+[
+  {
+    "name": "Hub4Source",
+    "url": "https://hub4source.com",
+    "description": "A WordPress platform for digital business and IT solutions, featuring blogs and digital marketing packages",
+    "stack": ["WordPress", "AWS"],
+    "impact": "Empowers businesses with IT and marketing solutions"
+  },
+  {
+    "name": "P-Ecommerce",
+    "url": "https://p-ecommerce.netlify.app",
+    "description": "A modern e-commerce platform showcasing phones and headphones with trending products and free shipping",
+    "stack": ["React", "TailwindCSS", "Netlify"],
+    "impact": "Delivers a seamless, SEO-optimized shopping experience",
+    "status": "Check availability; may be archived"
+  },
+  {
+    "name": "Shoccho Solutions",
+    "url": "https://shocchosolutions.netlify.app",
+    "description": "A professional tech solutions platform with a responsive React frontend",
+    "stack": ["React", "Node.js", "Netlify"],
+    "impact": "Provides robust tech services for businesses",
+    "status": "Check availability; may be archived"
+  },
+  {
+    "name": "Tasty Prantho",
+    "url": "https://tasty-prantho.netlify.app",
+    "description": "A food-focused web app with engaging UI for showcasing recipes and services",
+    "stack": ["React", "TailwindCSS", "Netlify"],
+    "impact": "Enhances user engagement for food enthusiasts",
+    "status": "Check availability; may be archived"
+  },
+  {
+    "name": "Starter React Project",
+    "url": "https://starter-react-project.netlify.app",
+    "description": "A lightweight React template for rapid project development",
+    "stack": ["React", "Netlify"],
+    "impact": "Accelerates development for new React applications",
+    "status": "Check availability; may be archived"
+  }
+]
 ```
 
-*Additional projects available upon request or in my portfolio archives.*
+*Note: Some projects may be archived or under maintenance. Contact me for access or additional portfolio details.*
 
 ---
 
@@ -69,12 +104,12 @@ tools: [Postman, Figma, Jira]
 
 ---
 
-## `🌱 Current Learning`
+## `🌱 Learning Journey`
 ```javascript
 const learningPath = [
-  'Vue.js: Advanced reactive UI development with Nuxt.js',
+  'Vue.js: Mastering reactive UIs with Nuxt.js',
   'TypeScript: Building type-safe, scalable applications',
-  'Flutter: Cross-platform mobile app development'
+  'Flutter: Creating cross-platform mobile apps'
 ];
 ```
 
@@ -82,11 +117,11 @@ const learningPath = [
 
 ## `🤝 Collaborate with Me`
 ```bash
-# Expertise:
-- Scalable backend APIs with Laravel and Node.js
-- Performance-optimized frontends with React and Vue.js
-- Containerized deployments using Docker and AWS
-- SEO-driven e-commerce solutions
+# Expertise areas:
+- Developing scalable APIs with Laravel and Node.js
+- Crafting responsive frontends with React and Vue.js
+- Streamlining deployments with Docker and AWS
+- Building SEO-optimized e-commerce platforms
 ```
 
 📧 **Email**: [prantho.kumardasshocho@gmail.com](mailto:prantho.kumardasshocho@gmail.com)  
@@ -98,5 +133,13 @@ const learningPath = [
 
 ---
 
-*`// Built for impact by Prantho Das | Open to innovative opportunities`*
+```
+   _____ _          _ _       
+  |  __ \ |        | | |      
+  | |__) |__   __ _| | | ___  
+  |  _  / '_ \ / _` | | |/ _ \ 
+  | | \ \ | | | (_| | | |  __/
+  |_|  \_\_| |_|__,_| |_|____|
+
+// Code crafted by Prantho Das | Ready to shape the future of tech
 ```
